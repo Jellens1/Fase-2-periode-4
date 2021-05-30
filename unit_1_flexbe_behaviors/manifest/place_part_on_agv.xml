@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="place_part_on_agv">
+
+	<executable package_path="unit_1_flexbe_behaviors.place_part_on_agv_sm" class="place_part_on_agvSM" />
+	<tagstring></tagstring>
+	<author>Jesper Ellens</author>
+	<date>Fri May 28 2021</date>
+	<description>
+		het part op de desbetreffende 
+AGV leggen
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>
